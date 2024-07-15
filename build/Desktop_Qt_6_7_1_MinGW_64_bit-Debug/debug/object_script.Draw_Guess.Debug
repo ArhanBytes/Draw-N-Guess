@@ -1,0 +1,11 @@
+debug/drawing.o
+debug/game.o
+debug/main.o
+debug/mainwindow.o
+debug/messagebox.o
+debug/player.o
+debug/qrc_resource.o
+debug/moc_drawing.o
+debug/moc_game.o
+debug/moc_mainwindow.o
+debug/moc_messagebox.o

@@ -1,0 +1,132 @@
+Player 1 Name: Arhan
+Player 2 Name: Ahmed
+Player 1 Score: 425
+Player 2 Score: 425
+Total Rounds Played: 2
+-----------------------------
+Player 1 Name: Arhan
+Player 2 Name: Imran
+Player 1 Score: 0
+Player 2 Score: 0
+Total Rounds Played: 1
+-----------------------------
+Player 1 Name: Arhan
+Player 2 Name: Imran
+Player 1 Score: 750
+Player 2 Score: 750
+Total Rounds Played: 2
+-----------------------------
+Player 1 Name: Arhan
+Player 2 Name: hamza
+Player 1 Score: 750
+Player 2 Score: 750
+Total Rounds Played: 2
+-----------------------------
+Player 1 Name: Arhan
+Player 2 Name: yaman
+Player 1 Score: 650
+Player 2 Score: 650
+Total Rounds Played: 2
+-----------------------------
+Player 1 Name: Arhan
+Player 2 Name: imran
+Player 1 Score: 0
+Player 2 Score: 0
+Total Rounds Played: 1
+-----------------------------
+Player 1 Name: Arhan
+Player 2 Name: Imran
+Player 1 Score: 0
+Player 2 Score: 0
+Total Rounds Played: 1
+-----------------------------
+Player 1 Name: Arhan
+Player 2 Name: Ahmed
+Player 1 Score: 425
+Player 2 Score: 425
+Total Rounds Played: 2
+-----------------------------
+Player 1 Name: Arhan
+Player 2 Name: Imran
+Player 1 Score: 500
+Player 2 Score: 500
+Total Rounds Played: 1
+-----------------------------
+Player 1 Name: Arhan
+Player 2 Name: Aman
+Player 1 Score: 550
+Player 2 Score: 550
+Total Rounds Played: 2
+-----------------------------
+Player 1 Name: Arhan
+Player 2 Name: Oman
+Player 1 Score: 500
+Player 2 Score: 500
+Total Rounds Played: 1
+-----------------------------
+Player 1 Name: arhan
+Player 2 Name: Imran
+Player 1 Score: 0
+Player 2 Score: 0
+Total Rounds Played: 1
+-----------------------------
+Player 1 Name: Arhan
+Player 2 Name: Imran
+Player 1 Score: 25
+Player 2 Score: 0
+Total Rounds Played: 1
+-----------------------------
+Player 1 Name: Arhan
+Player 2 Name: Imran
+Player 1 Score: 0
+Player 2 Score: 0
+Total Rounds Played: 1
+-----------------------------
+Player 1 Name: Arhan
+Player 2 Name: Imran
+Player 1 Score: 0
+Player 2 Score: 0
+Total Rounds Played: 1
+-----------------------------
+Player 1 Name: Arhan
+Player 2 Name: Imran
+Player 1 Score: 0
+Player 2 Score: 0
+Total Rounds Played: 1
+-----------------------------
+Player 1 Name: Arhan
+Player 2 Name: Imran
+Player 1 Score: 0
+Player 2 Score: 0
+Total Rounds Played: 1
+-----------------------------
+Player 1 Name: aRHAN
+Player 2 Name: iMRAN
+Player 1 Score: 0
+Player 2 Score: 0
+Total Rounds Played: 1
+-----------------------------
+Player 1 Name: arHAN
+Player 2 Name: DDD
+Player 1 Score: 250
+Player 2 Score: 500
+Total Rounds Played: 1
+-----------------------------
+Player 1 Name: Arhan
+Player 2 Name: Imran
+Player 1 Score: 250
+Player 2 Score: 500
+Total Rounds Played: 1
+-----------------------------
+Player 1 Name: Arhan
+Player 2 Name: Imran
+Player 1 Score: 0
+Player 2 Score: 0
+Total Rounds Played: 1
+-----------------------------
+Player 1 Name: Arhan
+Player 2 Name: Imran
+Player 1 Score: 750
+Player 2 Score: 750
+Total Rounds Played: 2
+-----------------------------

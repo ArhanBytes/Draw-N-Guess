@@ -1,0 +1,11 @@
+release/drawing.o
+release/game.o
+release/main.o
+release/mainwindow.o
+release/messagebox.o
+release/player.o
+release/qrc_resource.o
+release/moc_drawing.o
+release/moc_game.o
+release/moc_mainwindow.o
+release/moc_messagebox.o

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/resourceFile">
+        <file>aboutStylesheet.css</file>
+        <file>aboutText.html</file>
+        <file>messageBoxStylesheet.rtf</file>
+        <file>word.txt</file>
+    </qresource>
+</RCC>
